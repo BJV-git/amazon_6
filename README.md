@@ -1,1 +1,1 @@
-# amazon_top_100
+# amazon_6
